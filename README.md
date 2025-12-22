@@ -24,5 +24,6 @@ Demonstrate credential testing on RDP protocol using Crowbar and Ncrack in a con
 
 ## Screenshots
 (See images below)
+<img width="1920" height="1080" alt="Screenshot from 2025-12-23 02-48-33" src="https://github.com/user-attachments/assets/2523e920-2b87-465e-b855-77c822bc4d2d" />
 
 This project shows practical use of brute force tools in a safe lab setting for educational purposes.
