@@ -10,7 +10,7 @@ Demonstrate credential testing on RDP protocol using Crowbar and Ncrack in a con
 - Wordlist: rockyou.txt
 
 ## Lab Setup
-- Target: Windows 11 VM (IP: 192.168.107.133) with RDP enabled and NLA disabled
+- Target: Windows 11 VM (IP: 192.168.107.135) with RDP enabled and NLA disabled
 - Attacker: Ubuntu VM
 
 ## Execution Steps
