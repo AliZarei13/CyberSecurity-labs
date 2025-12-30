@@ -1,4 +1,3 @@
-# CyberSecurity-labs
 # RDP Brute Force Testing Lab
 
 ## Project Goal
